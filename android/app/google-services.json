@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421664573823",
+    "project_id": "fir-50cb1",
+    "storage_bucket": "fir-50cb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421664573823:android:9455002c6f99182d3c724a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_nRoFxnpO5pnCbXaeGSQQ6fFWWE6LGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
